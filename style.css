@@ -231,9 +231,6 @@
         font-size: 30px;
       }
 
-      .biodata-container{
-        line-height : 1.5;
-      }
       .pengalaman-description {
         font-size: 16px;
         line-height: 1.2;
@@ -247,7 +244,10 @@
         line-height: 1.2;
       }
     }
-  
+
+    .biodata-container{
+        line-height : 1.5;
+      }  
     .footer-container {
       flex-direction: column-reverse;
       gap: 16px;
