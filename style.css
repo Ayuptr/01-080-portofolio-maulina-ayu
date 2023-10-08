@@ -125,8 +125,18 @@
                 width: 100%;
                 display: flex;
                 flex-direction: column;
-                    
-            }
+          
+                .biodata-title {
+                    font-weight: 700;
+                    font-size: 50px;
+                    word-spacing: 5px;
+                    letter-spacing: -2px;
+                    max-width: 400px;
+                    flex: 1;
+                  }
+                }
+              
+            
 .pengalaman-container {
     padding: 20px 0;
   
