@@ -77,7 +77,7 @@
 
 
     .latar-container {
-        width: 100%;
+        width: 50%;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -93,7 +93,7 @@
         .latar-description {
             font-weight: 300;
             font-size: 20px;
-            color: gray;
+            color:black;
             line-height: 1.4;
           }
         }
@@ -115,12 +115,18 @@
                 max-width: 700px;
                 font-size: 20px;
                 font-weight: 300;
-                color: gray;
+                color: black;
                 line-height: 1.4;
                 margin-top: 10px;
               }
             }
-            
+
+            .biodata-line{
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+                    
+            }
 .pengalaman-container {
     padding: 20px 0;
   
